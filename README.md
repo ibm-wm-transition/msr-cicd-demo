@@ -30,6 +30,6 @@ More to discover
 * [Getting Started with webMethods.io: A Beginner’s Guide](https://tech.forums.softwareag.com/t/getting-started-with-webmethods-io-a-beginners-guide/276051)  
 * [webMethods.io Integration - First steps, tutorials & how-tos](https://tech.forums.softwareag.com/t/webmethods-io-integration-first-steps-tutorials-how-tos/255635)  
 ______________________
-These tools are provided as-is and without warranty or support. They do not constitute part of the Software AG product suite. Users are free to use, fork and modify them, subject to the license agreement. While Software AG welcomes contributions, we cannot guarantee to include every contribution in the master project.	
+These tools are provided as-is and without warranty or support. They do not constitute part of the webMethods product suite. Users are free to use, fork and modify them, subject to the license agreement. While we welcome contributions, we cannot guarantee to include every contribution in the master project.	
 
 Contact us at [TECHcommunity](mailto:technologycommunity@softwareag.com?subject=Github/SoftwareAG) if you have any questions.
